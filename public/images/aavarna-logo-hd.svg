@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" role="img" aria-label="Aavarna Boutique">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#c9a35c"/>
+      <stop offset="50%" stop-color="#f7e7bd"/>
+      <stop offset="100%" stop-color="#c9a35c"/>
+    </linearGradient>
+  </defs>
+  <text x="360" y="78" text-anchor="middle" fill="url(#g)"
+        font-family="Georgia, 'Cormorant Garamond', serif"
+        font-size="52" letter-spacing="12">AAVARNA</text>
+  <text x="360" y="122" text-anchor="middle" fill="#e6c987"
+        font-family="Georgia, 'Cormorant Garamond', serif"
+        font-size="22" letter-spacing="14">BOUTIQUE</text>
+</svg>
